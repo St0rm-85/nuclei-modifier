@@ -3,7 +3,7 @@
   <a href="https://nuclei.projectdiscovery.io"><img src="static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
 </h1>
 
-<h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
+<h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL (abc).</h4>
 
 
 <p align="center">
